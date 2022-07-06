@@ -1,5 +1,6 @@
 # Dependências 
 
+```
 "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
@@ -19,3 +20,4 @@
     "typescript": "^4.7.4",
     "web-vitals": "^2.1.4"
   },
+  ```
