@@ -21,3 +21,12 @@
     "web-vitals": "^2.1.4"
   },
   ```
+  
+  # DEV Dependências 
+  
+  ```
+   "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "@types/styled-components": "^5.1.25"
+  }
+  ```
